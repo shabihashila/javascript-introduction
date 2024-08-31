@@ -36,3 +36,8 @@ console.log(height);
 var demand = 45;
 demand = 34;
 console.log(demand);
+
+// eikhane const use ekbari kora jay ,eita change hoyna..man cng kora jayna
+const make = 45;
+make = 56;
+console.log(make);
